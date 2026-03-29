@@ -12,7 +12,7 @@ A simple Python CLI tool to check password strength based on multiple security r
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/password-strength-checker.git
+git clone https://github.com/itsboy42068/password-strength-checker.git
 cd password-strength-checker
 ```
 
